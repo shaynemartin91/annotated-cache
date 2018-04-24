@@ -1,5 +1,5 @@
 {
-    "name": "phpro/annotated-cache",
+    "name": "shaynemartin91/annotated-cache",
     "description": "This package makes it easy to configure the caching of your services with annotations.",
     "keywords": ["PSR6", "cache", "annotations", "proxy"],
     "license": "MIT",
